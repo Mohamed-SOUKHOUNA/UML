@@ -1,1 +1,172 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T17:45:55.356Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="16.5.4" etag="xb1Uy87vM8R69H4JZ0Bd" type="github"><diagram id="zEpSrPkMBWBx1nMXmQzM">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-09T18:25:07.951Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="hM-yCjnEUmUO_VIt6VIF" version="16.5.4" type="github">
+  <diagram id="zEpSrPkMBWBx1nMXmQzM" name="Page-1">
+    <mxGraphModel dx="868" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TUqAMx30lncPaXfPEoCu-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="140" y="80" width="630" height="630" as="geometry" />
+        </mxCell>
+        <mxCell id="TUqAMx30lncPaXfPEoCu-4" value="Direction" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="220" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TUqAMx30lncPaXfPEoCu-6" value="gerer les modules&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TUqAMx30lncPaXfPEoCu-7" value="consulter l&#39;etat d&#39;acc mod" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TUqAMx30lncPaXfPEoCu-8" value="se connecter&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TUqAMx30lncPaXfPEoCu-9" value="introduire info -stagiare" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="330" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TUqAMx30lncPaXfPEoCu-10" value="consulter l&#39;etat absence&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TUqAMx30lncPaXfPEoCu-11" value="importer l&#39;information&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TUqAMx30lncPaXfPEoCu-12" value="choisir le filiere" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TUqAMx30lncPaXfPEoCu-13" value="consulter les absences&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TUqAMx30lncPaXfPEoCu-17" value="remplir le cahier de texte&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TUqAMx30lncPaXfPEoCu-18" value="choisir le groupe&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TUqAMx30lncPaXfPEoCu-19" value="remplir infos sources" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TUqAMx30lncPaXfPEoCu-20" value="Enregistrer absences&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TUqAMx30lncPaXfPEoCu-21" value="Gestion -St&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="420" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TUqAMx30lncPaXfPEoCu-22" value="Formateur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="480" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TUqAMx30lncPaXfPEoCu-23" value="Stagiaire" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="260" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TUqAMx30lncPaXfPEoCu-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0.042;entryY=0.688;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="TUqAMx30lncPaXfPEoCu-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="275" as="sourcePoint" />
+            <mxPoint x="120" y="225" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUqAMx30lncPaXfPEoCu-27" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="TUqAMx30lncPaXfPEoCu-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="280" as="sourcePoint" />
+            <mxPoint x="120" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUqAMx30lncPaXfPEoCu-28" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.65;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TUqAMx30lncPaXfPEoCu-9" target="TUqAMx30lncPaXfPEoCu-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="330" as="sourcePoint" />
+            <mxPoint x="60" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUqAMx30lncPaXfPEoCu-29" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.008;entryY=0.663;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TUqAMx30lncPaXfPEoCu-11" target="TUqAMx30lncPaXfPEoCu-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="460" as="sourcePoint" />
+            <mxPoint x="440" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="60" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUqAMx30lncPaXfPEoCu-45" value="include&amp;nbsp;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="TUqAMx30lncPaXfPEoCu-11" target="TUqAMx30lncPaXfPEoCu-10">
+          <mxGeometry x="-0.1877" y="3" width="160" relative="1" as="geometry">
+            <mxPoint x="300" y="570" as="sourcePoint" />
+            <mxPoint x="460" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="530" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUqAMx30lncPaXfPEoCu-47" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="TUqAMx30lncPaXfPEoCu-8">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="330" y="380" as="sourcePoint" />
+            <mxPoint x="430" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUqAMx30lncPaXfPEoCu-48" value="Include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TUqAMx30lncPaXfPEoCu-47">
+          <mxGeometry x="0.3351" y="2" relative="1" as="geometry">
+            <mxPoint x="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUqAMx30lncPaXfPEoCu-54" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.625;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TUqAMx30lncPaXfPEoCu-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="330" as="sourcePoint" />
+            <mxPoint x="790" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUqAMx30lncPaXfPEoCu-56" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="TUqAMx30lncPaXfPEoCu-19" target="TUqAMx30lncPaXfPEoCu-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="390" as="sourcePoint" />
+            <mxPoint x="440" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="790" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUqAMx30lncPaXfPEoCu-57" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TUqAMx30lncPaXfPEoCu-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="585" as="sourcePoint" />
+            <mxPoint x="780" y="535" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="770" y="555" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUqAMx30lncPaXfPEoCu-58" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TUqAMx30lncPaXfPEoCu-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="350" as="sourcePoint" />
+            <mxPoint x="790" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUqAMx30lncPaXfPEoCu-59" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TUqAMx30lncPaXfPEoCu-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="350" as="sourcePoint" />
+            <mxPoint x="790" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUqAMx30lncPaXfPEoCu-61" value="include&amp;nbsp;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="TUqAMx30lncPaXfPEoCu-18">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="460" y="394.5" as="sourcePoint" />
+            <mxPoint x="620" y="394.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUqAMx30lncPaXfPEoCu-63" value="include&amp;nbsp;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="TUqAMx30lncPaXfPEoCu-20">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="420" y="460" as="sourcePoint" />
+            <mxPoint x="580" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUqAMx30lncPaXfPEoCu-64" value="gerer les formateurs&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="80" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TUqAMx30lncPaXfPEoCu-65" value="" style="endArrow=none;html=1;rounded=0;entryX=0.045;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="TUqAMx30lncPaXfPEoCu-64">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="260" as="sourcePoint" />
+            <mxPoint x="110" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
